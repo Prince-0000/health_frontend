@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-list {
+    @apply text-[#ede7e3] py-2 cursor-pointer;}
